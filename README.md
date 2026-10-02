@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Kaio Borges 👋
 
-<!--
-**KaioBorges-Dev/KaioBorges-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student focused on building real-world
+web applications, automation systems and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working with modern web technologies and continuously
+improving my skills through practical projects.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Software Engineering student
+- 💻 Full-Stack Developer
+- 🌐 Building web applications and SaaS platforms
+- 🤖 Interested in AI, automation and intelligent systems
+- 🗄️ Experience with databases and backend development
+- 📚 Always learning and building new projects
+
+---
+
+## 🛠️ Technologies
+
+### Frontend
+- JavaScript
+- React.js
+- HTML5
+- CSS3
+
+### Backend
+- PHP
+- Laravel
+- Node.js
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- REST APIs
+- cPanel
+- Google AI Studio
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 KPlace OS
+Business management and automation platform.
+
+### 🔹 CRM & AI Automation
+CRM platform integrating WhatsApp, AI agents and automated lead management.
+
+### 🔹 AcervoX
+Document digitization and XML processing system.
+
+---
+
+## 🌎 Connect with me
+
+🌐 Portfolio: https://dev.kaioborges.com.br/
+
+💼 LinkedIn: [your LinkedIn]
+
+📧 Email: contato@kaioborges.com.br
